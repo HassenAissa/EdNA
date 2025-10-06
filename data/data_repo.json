@@ -1,0 +1,6 @@
+{
+    "dpo_dataset_repo_id": "levinius/MNLP_M3_dpo_dataset",
+    "mcqa_dataset_repo_id": "HAissa/MNLP_M3_mcqa_dataset",
+    "quantized_mcqa_dataset_repo_id": "yassineturki/MNLP_M3_quantized_dataset",
+    "rag_mcqa_dataset_repo_id": "Lysandrec/MNLP_M3_rag_dataset"
+}

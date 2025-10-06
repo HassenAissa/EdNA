@@ -1,0 +1,27 @@
+torch
+transformers
+datasets
+sentence-transformers
+
+langchain-core
+langchain-community
+langchain-huggingface
+
+faiss-cpu
+# faiss-gpu  # Uncomment if using CUDA
+
+peft
+
+pandas
+numpy
+
+tqdm
+psutil
+
+tkinter
+
+pathlib
+multiprocessing
+threading
+logging
+gc
