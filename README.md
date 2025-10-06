@@ -59,6 +59,7 @@ To set up the environment for training the models, follow these steps:
 - RAG-MCQA: RAFT training ~ 80 hours
 
 # Expected training plots:
+For full results please check the resport in the pdf folder
 
 The GRPO training should look like this:
 ![GRPO Training Reward Plot](plots/GRPO_reward.png)
