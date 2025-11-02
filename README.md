@@ -13,6 +13,9 @@ EdNA collection consists of four models, each trained with a different approach:
 - RAG-MCQA: Retrieval-Augmented Generation Multiple Choice Question Answering
 - DPO: Direct Preference Optimization
 
+# Try it out!
+You can try EdNA on our HF Space here: https://huggingface.co/spaces/HAissa/EdNA-STEM-MCQ
+
 # Setup Instructions
 
 To set up the environment for training the models, follow these steps:
